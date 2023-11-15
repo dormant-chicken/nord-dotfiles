@@ -1,5 +1,5 @@
 # dotfiles
-My dotfiles for waybar, wofi, and my hyprland config
+Here are my dotfiles for waybar, wofi, and my hyprland config
 
 Run these commands on arch before using the dotfiles:
 
@@ -22,4 +22,4 @@ You can apply the GTK theme using [NWG-look](https://github.com/nwg-piotr/nwg-lo
 > [!NOTE]
 > Applying a GTK theme with NWG-look will change the wofi theme too, so there is no need for using custom wofi dotfiles unless you want to, as your GTK theme will have their own. 
 
-The wallpaper that I use can be found at [imgur](https://imgur.com/ZE9ZvL4)
+The wallpaper that I use can be found at [imgur](https://imgur.com/ZE9ZvL4).
