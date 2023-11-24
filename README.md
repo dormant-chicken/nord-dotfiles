@@ -1,15 +1,12 @@
 # dotfiles
 Here are my dotfiles for waybar, wofi, and my hyprland config
 
-Run these commands on arch before using the dotfiles:
+Install these packages before using these dotfiles:
 
-```
-sudo pacman -S ttf-font-awesome
-```
-```
-sudo pacman -S ttf-roboto-mono
-```
-You can find the GTK theme, icons, and cursors that I use at gnome-look.org, linked down below:
+`ttf-roboto-mono`
+`ttf-font-awesome`
+
+You can find the GTK theme, icons, and cursors that I use at gnome-look.org. They are linked down below:
 
 [Nordic GTK theme](https://www.gnome-look.org/p/1267246/)
 
@@ -20,6 +17,6 @@ You can find the GTK theme, icons, and cursors that I use at gnome-look.org, lin
 You can change the GTK theme, icon theme, cursor theme, and more using [NWG-look](https://github.com/nwg-piotr/nwg-look).
 
 > [!NOTE]
-> Applying a GTK theme with NWG-look will change the wofi theme too, so there is no need for using custom wofi dotfiles unless you want to, as your GTK theme will have their own. 
+> NWG-look will change your wofi theme based on your GTK theme.
 
-The wallpaper that I use can be found in the hyprland folder
+The wallpaper that I use can be found in the hyprland folder.
