@@ -22,4 +22,4 @@ You can change the GTK theme, icon theme, cursor theme, and more using [NWG-look
 > [!NOTE]
 > Applying a GTK theme with NWG-look will change the wofi theme too, so there is no need for using custom wofi dotfiles unless you want to, as your GTK theme will have their own. 
 
-The wallpaper that I use can be found at [imgur](https://imgur.com/ZE9ZvL4).
+The wallpaper that I use can be found in the hyprland folder
